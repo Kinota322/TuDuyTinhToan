@@ -1,0 +1,1 @@
+print('Spring', 'Summer', 'Autumn', 'Winter', sep = '\n')
